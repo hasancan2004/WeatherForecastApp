@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Gündüz Modu Renkleri -->
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryVariant">#0D47A1</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="background">#F5F5F5</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="accent">#FFC107</color>
+    <color name="divider">#BDBDBD</color>
+
+
+    <!-- Gece Modu Renkleri -->
+    <color name="colorPrimaryNight">#BB86FC</color>
+    <color name="colorPrimaryVariantNight">#3700B3</color>
+    <color name="colorOnPrimaryNight">#FFFFFF</color>
+    <color name="backgroundNight">#121212</color>
+    <color name="textColorNight">#E0E0E0</color>
+    <color name="dividerNight">#424242</color>
+
+    <!-- Eksik renkler -->
+    <color name="primary_dark">#388E3C</color> <!-- Örnek renk -->
+    <color name="primary">#4CAF50</color> <!-- Örnek renk -->
+    <color name="light_blue">#73B4D1</color>
+
+
+        <!-- Diğer renk tanımları -->
+    <color name="button_normal">#4CAF50</color> <!-- Yeşil bir renk örneği -->
+    <color name="button_pressed">#388E3C</color> <!-- Daha koyu bir yeşil, basılı olduğunda -->
+    <color name="textColor">#000000</color> <!-- Siyah yazı rengi -->
+
+</resources>
